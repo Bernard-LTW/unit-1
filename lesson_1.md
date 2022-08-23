@@ -8,5 +8,4 @@ Numbers, String, List, Tuple, Dictionary
 
 What are the four CTS?
 
--Reference
--Value
+-Nominal, Ordinal, Discrete, Continuous
