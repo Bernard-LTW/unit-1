@@ -4,7 +4,7 @@ In programming, a variable is a value that can change, depending on conditions o
 
 -What types of variable can we use in Python?
 
-Numbers, String, List, Tuple, Dictionary
+Integers, Floats, String, List, Tuple, Dictionary, Characters, Boolean
 
 -What are the four CTS?
 
