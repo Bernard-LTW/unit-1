@@ -6,6 +6,6 @@ In programming, a variable is a value that can change, depending on conditions o
 
 Numbers, String, List, Tuple, Dictionary
 
-What are the four CTS?
+-What are the four CTS?
 
--Nominal, Ordinal, Discrete, Continuous
+Nominal, Ordinal, Discrete, Continuous
