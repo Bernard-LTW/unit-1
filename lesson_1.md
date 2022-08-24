@@ -8,4 +8,4 @@ Integers, Floats, String, List, Tuple, Dictionary, Characters, Boolean
 
 -What are the four CTS?
 
-Nominal, Ordinal, Discrete, Continuous
+Decomposition, Pattern Recognition, Abstraction, Algorithmic Thinking
