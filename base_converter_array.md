@@ -1,9 +1,9 @@
-### Basic Base Converter(Array v1)
+# Basic Base Converter(Array v1)
 ## Introduction
 
-This is a basic base converter that converts a positive integer from Base 10 to Base 2-9 inclusive with an array written in python
+This is a basic base converter that converts a positive integer from Base 10 to Base 2-9 inclusive with an array written in python.
 
-
+## Code Structrue
 ```.py
 
 #2022-08-25 - Base Converter
@@ -39,3 +39,10 @@ print(output_storage)
 
 ```
 ## Test results
+
+![](basearrayv1_test1.jpg)
+*Fig.1* **Picture of results returned when original number and target base is 4 and 3 respectively**
+
+![](basearrayv1_test2.jpg)
+*Fig.2* **Picture of results returned when original number and target base is 15 and 7 respectively**
+
