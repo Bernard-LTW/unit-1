@@ -1,4 +1,4 @@
-#2022-08-25 - Base Converter by Bernard Lee
+#2022-08-25 - Base Converter
 #This program converts a positive integer from Base 10 to Base 2-9 inclusive with an array.
 
 #Initizalize variables
@@ -9,6 +9,11 @@ output_storage = []
 #Check for invalid base
 if base < 3 or base > 10:
     print("Base must be from 2 to 9 inclusive")
+    exit()
+    
+#Check for invalid input
+if orig_num < 0:
+    print("Number must be positive")
     exit()
 
 #Main calculation
