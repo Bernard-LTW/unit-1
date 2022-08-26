@@ -5,7 +5,6 @@ This is a basic base converter that converts a positive integer from Base 10 to 
 
 ## Code Structrue
 ```.py
-
 #2022-08-25 - Base Converter
 #This program converts a positive integer from Base 10 to Base 2-9 inclusive with an array.
 
@@ -17,6 +16,11 @@ output_storage = []
 #Check for invalid base
 if base < 3 or base > 10:
     print("Base must be from 2 to 9 inclusive")
+    exit()
+    
+#Check for invalid input
+if orig_num < 0:
+    print("Number must be positive")
     exit()
 
 #Main calculation
@@ -45,4 +49,7 @@ print(output_storage)
 
 ![](basearrayv1_test2.jpg)
 *Fig.2* **Picture of results returned when original number and target base is 15 and 7 respectively**
+
+![](basearrayv1_testerr.jpg)
+*Fig.3* **Picture showing the error that would appear when user inputs a number out of range of the program**
 
