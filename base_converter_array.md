@@ -50,6 +50,8 @@ print(output_storage)
 ![](basearrayv1_test2.jpg)
 *Fig.2* **Picture of results returned when original number and target base is 15 and 7 respectively**
 
+## Invalid Situations
+
 ![](basearrayv1_testerr.jpg)
 *Fig.3* **Picture showing the error that would appear when user inputs a number out of range of the program**
 
