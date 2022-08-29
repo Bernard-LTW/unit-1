@@ -6,12 +6,10 @@ Given an integer number, print its last digit.
 
 ```.py
 # Read an integer:
-a = int(input())
+a = int(input("Input an integer: "))
 print(a%10)
 
 ``` 
-
-Image of the results
 
 ## Print tens
 
@@ -19,12 +17,14 @@ Given an integer. Print its tens digit.
 
 ```.py
 # Read an integer:
-number = int(input())
+number = int(input("Input an integer: "))
 
 number = number//10 # integer division
 answer = number%10 
 print(answer)
 
 ```
-![](evidence_exercise_1.jpg)
-Fig. 1 This is the evidence 
+
+## Results
+![](Assets/Snakify_Ch1_Results.jpg)
+Fig. 1 This is the result of the code 
