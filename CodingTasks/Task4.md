@@ -39,6 +39,12 @@ else:
 ```
 
 ## Results
-![](Task4_Evidence.jpg)
+![](Task4_Evidence_a.jpg)
 
-*Fig.1* **Screenshot showing the results of the program**
+*Fig.1* **Screenshot showing the results of the program when 4 scores are entered**
+
+![](Task4_Evidence_b.jpg)
+
+*Fig.2* **Screenshot showing the results of the program when 5 scores are entered**
+
+
