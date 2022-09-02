@@ -1,5 +1,5 @@
 # Task 3
-Prompt:Write a program to sort alphabetically three names entered by the user.
+Prompt : Write a program to sort alphabetically three names entered by the user.
 
 ## Code Structure
 ```.py
@@ -31,4 +31,5 @@ print(namelist)
 
 ## Results
 ![](Task3_Evidence.jpg)
-*Fig.1* **Screenshot showing the results of the program
+
+*Fig.1* **Screenshot showing the results of the program**
