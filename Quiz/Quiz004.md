@@ -36,4 +36,4 @@ else:
 ![](Quiz004_EvidenceA.jpg)
 *Fig.1* **Screenshot showing the result of the program when inputted number is perfect**
 ![](Quiz004_EvidenceB.jpg)
-*Fig.1* **Screenshot showing the result of the program when inputted number is non-perfect**
+*Fig.2* **Screenshot showing the result of the program when inputted number is non-perfect**
