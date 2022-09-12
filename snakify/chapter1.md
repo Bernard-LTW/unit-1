@@ -1,2 +1,0 @@
-##Snakify Chapter 1
-
