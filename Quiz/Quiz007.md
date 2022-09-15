@@ -2,6 +2,7 @@
 
 ## Prompt
 Create a program that create 10 random passwords with digits and letters of length 20
+
 For HL :  Ask the user for the length and if symbols should be included
 
 ## Code Structure 
