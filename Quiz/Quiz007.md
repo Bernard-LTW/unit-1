@@ -5,6 +5,10 @@ Create a program that create 10 random passwords with digits and letters of leng
 
 For HL :  Ask the user for the length and if symbols should be included
 
+## Flow Diagram
+![](Quiz007_FlowDiagram.jpg)
+*Fig.1* **Flow diagram of the program**
+
 ## Code Structure 
 ```.py
 #2022-09-15 Quiz 007
@@ -46,4 +50,4 @@ print("\n".join(passwords))
 
 ## Evidence
 ![](Quiz007_Evidence.jpg)
-*Fig.1* **Screenshot showing the result of the program**
+*Fig.2* **Screenshot showing the result of the program**
