@@ -3,6 +3,10 @@
 ## Prompt
 Translate the DNA Chain inputted by the user
 
+## Evidence
+![](Quiz003_FlowDiagram.jpg)
+*Fig.1* **Flow diagram of the program**
+
 ## Code Structure 
 ```.py
 # 2022-09-02 A
@@ -43,4 +47,4 @@ print(dna_chain_output)
 
 ## Evidence
 ![](Quiz003_Evidence.jpg)
-*Fig.1* **Screenshot showing the result of the program**
+*Fig.2* **Screenshot showing the result of the program**
