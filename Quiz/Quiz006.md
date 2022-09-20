@@ -5,6 +5,7 @@ Given a string, create a program that produces the sum of the charcter in the st
 
 ## Flow Diagram
 ![](Quiz006_FlowDiagram.jpg)
+
 *Fig.1* **Flow diagram of the program**
 
 
