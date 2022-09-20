@@ -3,7 +3,7 @@
 ## Prompt
 Translate the DNA Chain inputted by the user
 
-## Evidence
+## Flow Diagram
 ![](Quiz003_FlowDiagram.jpg)
 *Fig.1* **Flow diagram of the program**
 
