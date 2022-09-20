@@ -6,7 +6,7 @@ Create a function that receives as input a string and returns the string ciphere
 For HL :  Ask the user for the shift
 
 ## Flow Diagram
-![](Quiz009_FlowDiagram.jpg)
+![](Quiz009_FlowDiagram.jpeg)
 *Fig.1* **Flow diagram of the program**
 
 ## Code Structure 
