@@ -11,7 +11,7 @@ A hotel has 10 floors and 10 rooms on each floor. Write a program that prints th
 HL: Use a function receive the room number (1-100) and prints the Room floor location and number
 
 ## Flow Diagram
-![](Quiz008_FlowDiagram.jpeg)
+![](Quiz008_FlowDiagram.jpg)
 *Fig.1* **Flow diagram of the program**
 
 ## Code Structure 
@@ -33,4 +33,5 @@ print(assign[int(num)-1])
 
 ## Evidence
 ![](Quiz008_Evidence.jpg)
+
 *Fig.2* **Screenshot showing the result of the program**
