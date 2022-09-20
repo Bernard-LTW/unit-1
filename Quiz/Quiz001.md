@@ -1,14 +1,35 @@
-# Solution to Quiz 001
+# Quiz 001
 
-![](IMG_3935.jpeg)
-
-**Fig.1** This is the solution to the black box
-
-**Fig.1** shows my solution to quiz001. The procedure to generate the outputs below are
-
+## Prompt
+Figure out what's in the black box and program it.
 | Input                        | Output          |
 |------------------------------|-----------------|
 | international                | i11l            |
 | (cats) + (dogs) = (troubles) | (4) + (4) = (8) |
 |                              |                 |
 
+
+
+HL: ...
+
+## Flow Diagram
+![](Quiz001_FlowDiagram.jpeg)
+*Fig.1* **Flow diagram of the program**
+## Code Structure 
+```.py
+#2022-08-25 Quiz 001
+
+text = input("Input text: ")
+text = text.split()
+output = ""
+for word in text:
+    if len(word) <= 2:
+        output += word
+    else:
+        output += (word[:1] + str(len(word) - 2) + word[-1:])
+print(output)
+```
+
+## Evidence
+![](Quiz001_Evidence.jpg)
+*Fig.2* **Screenshot showing the result of the program**
