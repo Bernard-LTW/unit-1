@@ -3,6 +3,10 @@
 ## Prompt
 Check if inputted number is a perfect number or a non-perfect number
 
+## Flow Diagram
+![](Quiz004_FlowDiagram.jpg)
+*Fig.1* **Flow diagram of the program**
+
 ## Code Structure 
 ```.py
 #2022-09-09 Quiz 004
@@ -34,6 +38,6 @@ else:
 
 ## Evidence
 ![](Quiz004_EvidenceA.jpg)
-*Fig.1* **Screenshot showing the result of the program when inputted number is perfect**
+*Fig.2* **Screenshot showing the result of the program when inputted number is perfect**
 ![](Quiz004_EvidenceB.jpg)
-*Fig.2* **Screenshot showing the result of the program when inputted number is non-perfect**
+*Fig.3* **Screenshot showing the result of the program when inputted number is non-perfect**
