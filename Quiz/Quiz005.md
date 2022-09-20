@@ -3,6 +3,10 @@
 ## Prompt
 Find all factors of a number
 
+## Flow Diagram
+![](Quiz005_FlowDiagram.jpg)
+*Fig.1* **Flow diagram of the program**
+
 ## Code Structure 
 ```.py
 #2022-09-09 Quiz 005
@@ -32,4 +36,4 @@ print(factors)
 
 ## Evidence
 ![](Quiz005_Evidence.jpg)
-*Fig.1* **Screenshot showing the result of the program**
+*Fig.2* **Screenshot showing the result of the program**
