@@ -1,7 +1,12 @@
-# Quiz 006(Unfinished
+# Quiz 006
 
 ## Prompt
 Given a string, create a program that produces the sum of the charcter in the string
+
+## Flow Diagram
+![](Quiz006_FlowDiagram.jpg)
+*Fig.1* **Flow diagram of the program**
+
 
 ## Code Structure 
 ```.py
@@ -29,4 +34,4 @@ print(sum)
 
 ## Evidence
 ![](Quiz006_Evidence.jpg)
-*Fig.1* **Screenshot showing the result of the program**
+*Fig.2* **Screenshot showing the result of the program**
