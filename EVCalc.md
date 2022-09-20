@@ -114,36 +114,5 @@ date,charge(Kwh),duration
 ```
 
 ## Results
-```shell
-/Users/bernardlee/PycharmProjects/CompSciFiles/venv/bin/python /Users/bernardlee/PycharmProjects/CompSciFiles/20220920_a.py 
------ Welcome to EV calculator! ------
-                     Options                      
-
-1. Average time per kWh
-
-2.Total kWh used
-
-3. Total charge time
-
-4. Show all data
-
-Enter an option[1-4]: 5
-5 is incorrect. Enter an option[1-4]: 1
-Average time per kWh: 85 minutes
-Do you want to use any other functions?[y/n]: y
-Enter an option[1-4]: 2
-Total energy used so far: 24.664 kWh
-Do you want to use any other functions?[y/n]: y
-Enter an option[1-4]: 3
-Total charge time:34 hour(s) 57 minutes
-Do you want to use any other functions?[y/n]: y
-Enter an option[1-4]: 4
-Log No.1: 12.9.22,8.878,12:32:36
-Log No.2: 15.9.22,3.533,5:01:23
-Log No.3: 17.9.22,6.828,9:41:46
-Log No.4: 18.9.22,5.425,7:43:35
-Do you want to use any other functions?[y/n]: n
-########Thank you for using EV calculator!########
-
-Process finished with exit code 0
-```
+![](Assets/EV_Calc_Evidence.jpg)
+*Fig.1* **Screenshot showing the result of the program**
