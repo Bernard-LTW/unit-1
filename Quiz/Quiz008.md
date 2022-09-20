@@ -8,11 +8,12 @@ A hotel has 10 floors and 10 rooms on each floor. Write a program that prints th
 .
 100 - Room 10F10
 
+HL: Use a function receive the room number (1-100) and prints the Room floor location and number
+
 ## Flow Diagram
 ![](Quiz008_FlowDiagram.jpeg)
 *Fig.1* **Flow diagram of the program**
 
-HL: Use a function receive the room number (1-100) and prints the Room floor location and number
 ## Code Structure 
 ```.py
 #2022-09-16 Quiz 008
