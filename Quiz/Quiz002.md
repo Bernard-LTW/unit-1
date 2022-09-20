@@ -3,6 +3,11 @@
 ## Prompt
 Given 2 numbers, A and B, Output True if one of them is 20 or their sum is 20(HL:Array)
 
+## Flow Diagram
+![](Quiz002_FlowDiagram.jpg)
+*Fig.1* **Flow diagram of the program**
+
+
 ## Code Structure 
 ```.py
 #2022-09-01 Quiz 002
@@ -26,4 +31,4 @@ print(output)
 
 ## Evidence
 ![](Quiz002_Evidence.jpg)
-*Fig.1* **Screenshot showing the result of the program**
+*Fig.2* **Screenshot showing the result of the program**
