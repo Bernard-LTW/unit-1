@@ -8,10 +8,6 @@ Figure out what's in the black box and program it.
 | (cats) + (dogs) = (troubles) | (4) + (4) = (8) |
 |                              |                 |
 
-
-
-HL: ...
-
 ## Flow Diagram
 ![](Quiz001_FlowDiagram.jpeg)
 *Fig.1* **Flow diagram of the program**
