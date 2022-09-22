@@ -114,5 +114,5 @@ date,charge(Kwh),duration
 ```
 
 ## Results
-![](Assets/EV_Calc_Evidence.jpg)
+![](Task002_Evidence.jpeg)
 *Fig.1* **Screenshot showing the result of the program**
