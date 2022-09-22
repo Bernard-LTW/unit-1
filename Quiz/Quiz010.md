@@ -7,6 +7,7 @@ HL: User inputs number with units (e.g. 1 gram of salt)
 
 ## Flow Diagram
 ![](Quiz010_FlowDiagram.jpg)
+
 *Fig.1* **Flow diagram of the program**
 ## Code Structure 
 ```.py
