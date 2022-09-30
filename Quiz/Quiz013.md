@@ -33,4 +33,5 @@ print(mystery(int(input("Enter a number: ")), int(input("Enter a number: "))))
 
 ## Evidence
 ![](Quiz013_Evidence.jpg)
+
 *Fig.2* **Screenshot showing the result of the program**
