@@ -32,4 +32,5 @@ print(doorOpen(int(input("Enter a number of students: "))))
 
 ## Evidence
 ![](Quiz015_Evidence.jpg)
+
 *Fig.2* **Screenshot showing the result of the program**
