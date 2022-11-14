@@ -5,7 +5,7 @@ Create a function that shows the days of your bithday's month in the year 2022 a
 HL: The function must receive the month of your birthday
 
 ## Flow Diagram
-![](Quiz011_FlowDiagram.jpg)
+![](Quiz011_FlowDiagram2.jpg)
 *Fig.1* **Flow diagram of the program**
 ## Code Structure 
 ```.py
