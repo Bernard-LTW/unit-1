@@ -12,7 +12,7 @@ Example: Input 10,10 Output 90
 Example: Input 70,50 Output 3480
 
 ## Flow Diagram
-![](Quiz013_FlowDiagram.jpg)
+![](Quiz013_FlowDiagram2.jpg)
 
 *Fig.1* **Flow diagram of the program**
 
