@@ -35,3 +35,15 @@ print(mystery(int(input("Enter a number: ")), int(input("Enter a number: "))))
 ![](Quiz013_Evidence.jpg)
 
 *Fig.2* **Screenshot showing the result of the program**
+
+![](Quiz013_Evidence2.jpg)
+
+*Fig.3* **Screenshot showing the result of the program**
+
+![](Quiz013_Evidence3.jpg)
+
+*Fig.4* **Screenshot showing the result of the program**
+
+![](Quiz013_Evidence4.jpg)
+
+*Fig.5* **Screenshot showing the result of the program**
