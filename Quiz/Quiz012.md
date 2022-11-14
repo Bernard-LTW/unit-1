@@ -29,5 +29,5 @@ print(mulTable(int(validate_int_input("Enter a number: "))))
 ```
 
 ## Evidence
-![](Quiz012_Evidence.jpg)
+![](Quiz012_Evidence2.jpg)
 *Fig.2* **Screenshot showing the result of the program**
