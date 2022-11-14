@@ -18,6 +18,8 @@ HL: Create a function that shows number of doors that are open after N students 
 #Example: Input 10 returns 3
 #Example: Input 100 returns 10
 
+from my_lib import validate_int_input
+
 def doorOpen(n):
     doors = [0]*n
     for i in range(1, n+1):
@@ -25,12 +27,15 @@ def doorOpen(n):
             doors[j] = 1 - doors[j]
     return sum(doors)
 
-print(doorOpen(int(input("Enter a number of students: "))))
+num_of_students = int(validate_int_input("Enter a number of students: "))
+temp = doorOpen(num_of_students)
+
+print(f"{temp} doors are open after {num_of_students} students have passed through the school.")
 
 ## End of Program##
 ```
 
 ## Evidence
-![](Quiz015_Evidence.jpg)
+![](Quiz015_Evidence2.jpg)
 
 *Fig.2* **Screenshot showing the result of the program**
