@@ -2,9 +2,13 @@
 
 ## Prompt
 Create a function that recieves one input and produces the output shown below.
+
 Example: Input 2,6 Output 8
+
 Example: Input 4,10 Output 34
+
 Example: Input 10,10 Output 90
+
 Example: Input 70,50 Output 3480
 
 ## Flow Diagram
