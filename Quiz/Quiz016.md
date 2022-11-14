@@ -10,7 +10,7 @@ Create a function that produces the output of the following output:
 | "Create a function" | 111112 2 11122112 |
 
 ## Flow Diagram
-![](Quiz016_FlowDiagram.jpg)
+![](Quiz016_FlowDiagram2.jpg)
 
 *Fig.1* **Flow diagram of the program**
 
