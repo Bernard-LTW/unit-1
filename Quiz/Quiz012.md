@@ -4,7 +4,7 @@
 Create a function that reviebes integer 2<n<10, and returns the multiplication table of that number up to 9.
 
 ## Flow Diagram
-![](Quiz012_FlowDiagram.jpg)
+![](Quiz012_FlowDiagram2.jpg)
 
 *Fig.1* **Flow diagram of the program**
 
