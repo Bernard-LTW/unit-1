@@ -68,4 +68,9 @@ bestmonth(input("Month: "))
 
 ## Evidence
 ![](Quiz011_Evidence.jpg)
-*Fig.2* **Screenshot showing the result of the program**
+*Fig.2* **Screenshot showing the result of the program when the input is May**
+
+![](Quiz011_Evidence2.jpg)
+*Fig.2* **Screenshot showing the result of the program when the input is June**
+
+
