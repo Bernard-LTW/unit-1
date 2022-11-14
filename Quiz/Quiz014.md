@@ -9,7 +9,7 @@ Create a function that recieves one input and produces the output shown below.
 | 60, 5             | 3605        |
 | 10, 4             | 104         |
 ## Flow Diagram
-![](Quiz014_FlowDiagram.jpg)
+![](Quiz014_FlowDiagram2.jpg)
 *Fig.1* **Flow diagram of the program**
 ## Code Structure 
 ```.py
