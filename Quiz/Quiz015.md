@@ -6,7 +6,7 @@ There are N closed doors in a school and N students present. The first student o
 HL: Create a function that shows number of doors that are open after N students have passed through the school.
 
 ## Flow Diagram
-![](Quiz015_FlowDiagram.jpg)
+![](Quiz015_FlowDiagram2.jpg)
 *Fig.1* **Flow diagram of the program**
 ## Code Structure 
 ```.py
